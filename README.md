@@ -14,7 +14,7 @@ Aturan Pengerjaan UAS
 6. Saat melakukan Commit gunakan template berikut "NIM - Pesan / Info terkait commit"
 
 PIC
-1. Writing your first Django app, part 2 ->
+1. Writing your first Django app, part 2 -> Rahmat Amalul Ahlin
 2. Writing your first Django app, part 3
 3. Writing your first Django app, part 4
 4. Writing your first Django app, part 5
@@ -25,7 +25,7 @@ PIC
 Berikut yang bisa saya sampaikan, semoga teman-teman bisa mendapatkan hasil yang terbaik. Mohon maaf jika saya terlambat menyampaikan terkait UAS.
 
 
-Commit n Push : H1A022060 - Membuat Django App Part 2
-    Username    : admin
-    Password    : 1234
-    Catatan : Objects di Question dimulai dari id = 2. Id = 1 dihapus karena ada kesalahan langkah saat mengikuti tutorial
+Commit n Push : H1A022060 - Membuat Django App Part 2.
+    Username    : admin. 
+    Password    : 1234. 
+    Catatan : Objects di Question dimulai dari id = 2. Id = 1 dihapus karena ada kesalahan langkah saat mengikuti tutorial.
