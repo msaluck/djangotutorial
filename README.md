@@ -14,7 +14,7 @@ Aturan Pengerjaan UAS
 6. Saat melakukan Commit gunakan template berikut "NIM - Pesan / Info terkait commit"
 
 PIC
-1. Writing your first Django app, part 2 -> 
+1. Writing your first Django app, part 2 -> Amin Bagus Pawitran
 2. Writing your first Django app, part 3
 3. Writing your first Django app, part 4
 4. Writing your first Django app, part 5
