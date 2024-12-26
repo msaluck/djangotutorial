@@ -16,7 +16,7 @@ Aturan Pengerjaan UAS
 PIC
 1. Writing your first Django app, part 2 -> Rahmat Amalul Ahlin
 2. Writing your first Django app, part 3 -> Bagus Satria Bima Sakti & Faza Syauqille Suny
-3. Writing your first Django app, part 4
+3. Writing your first Django app, part 4 -> Amin Bagus Pawitran
 4. Writing your first Django app, part 5
 5. Writing your first Django app, part 6
 6. Writing your first Django app, part 7
