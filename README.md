@@ -19,7 +19,7 @@ PIC
 3. Writing your first Django app, part 4 -> Amin Bagus Pawitran
 4. Writing your first Django app, part 5 -> M. Rivqi Al Varras
 5. Writing your first Django app, part 6 -> Azizah Najda Hafizha
-6. Writing your first Django app, part 7
+6. Writing your first Django app, part 7 -> Ryan Nashrullah
 7. Writing your first Django app, part 8
 
 Berikut yang bisa saya sampaikan, semoga teman-teman bisa mendapatkan hasil yang terbaik. Mohon maaf jika saya terlambat menyampaikan terkait UAS.
