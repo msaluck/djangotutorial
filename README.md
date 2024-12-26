@@ -18,12 +18,11 @@ PIC
 2. Writing your first Django app, part 3 -> Bagus Satria Bima Sakti & Faza Syauqille Suny
 3. Writing your first Django app, part 4 -> Amin Bagus Pawitran
 4. Writing your first Django app, part 5 -> M. Rivqi Al Varras
-5. Writing your first Django app, part 6
+5. Writing your first Django app, part 6 -> Azizah Najda Hafizha
 6. Writing your first Django app, part 7
 7. Writing your first Django app, part 8
 
 Berikut yang bisa saya sampaikan, semoga teman-teman bisa mendapatkan hasil yang terbaik. Mohon maaf jika saya terlambat menyampaikan terkait UAS.
-
 
 Commit n Push : H1A022060 - Membuat Django App Part 2.
     Username    : admin. 
